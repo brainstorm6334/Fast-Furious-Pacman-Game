@@ -1,7 +1,7 @@
-# Fast-Furious-Pacman-Game
+# Fast & Furious Pacman Game
 Fun twist on Pacman built in python.
 
-![Screenshot](/path/to/img.jpg "Preview")
+![Screenshot](https://github.com/brainstorm6334/Fast-Furious-Pacman-Game/view/master/FastFurious.app/Contents/Processing/menu.jpg "Preview")
 
 # Synopsis
 
