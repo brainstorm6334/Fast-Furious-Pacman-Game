@@ -22,15 +22,8 @@ LEFT arrow - move left
 RIGHT arrow - move right
 
 
-<<<<<<< Updated upstream
 ###Control Player 2 (Yellow) by using the following keys:
-=======
-<<<<<<< HEAD
-Control Player 2 (Yellow) by using the following keys:
-=======
-###Control Player 2 (Yellow) by using the following keys:
->>>>>>> origin/master
->>>>>>> Stashed changes
+
 
 W - move up
 
@@ -49,18 +42,7 @@ Tested in 10.9.5, 10.10.1, 10.11.1
 
 # Technology Used
 
-<<<<<<< Updated upstream
+
 [Python 3.5](https://www.python.org/)
 
 [Processing](https://processing.org/) with python module
-=======
-<<<<<<< HEAD
-Python 3.5
-
-Processing with python module
-=======
-[Python 3.5](https://www.python.org/)
-
-[Processing](https://processing.org/) with python module
->>>>>>> origin/master
->>>>>>> Stashed changes
