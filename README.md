@@ -43,4 +43,8 @@ Tested in 10.9.5, 10.10.1, 10.11.1
 
 [Processing](https://processing.org/) with python module
 
+# Credits
+
+The game was created in collaboration with Yana Chala.
+
 # [Webpage](http://brainstorm6334.github.io/Fast-Furious-Pacman-Game/)
